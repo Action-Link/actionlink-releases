@@ -1,0 +1,9 @@
+# ActionLink CLI Binary License
+
+Copyright (c) ActionLink. All rights reserved.
+
+This repository provides proprietary ActionLink CLI binary releases for end-user installation and evaluation. You may download and use the binaries only under the terms provided by ActionLink.
+
+You may not redistribute, reverse engineer, modify, or create derivative works from these binaries except where such restrictions are prohibited by applicable law or expressly permitted by a separate written agreement with ActionLink.
+
+The software is provided without source code. ActionLink may update, replace, or withdraw release assets at its discretion.
